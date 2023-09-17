@@ -1,12 +1,12 @@
 swagger: '2.0'
 info:
-  version: 1.0.0
-  title: Severs API
-  description: Spring boot API Documentation that maintains Servers in a MogoDB
+  version: 3.0.0
+  title: Kaiburr Servers API
+  description: Spring boot API to maintain server in mongoDB
 schemes:
   - http
   - https
-host: 'petstore.swagger.io'
+host: 'swagger.editor.io'
 basePath: /api/v1
 consumes:
   - application/json
