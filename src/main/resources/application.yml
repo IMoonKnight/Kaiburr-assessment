@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      username: rootuser
+      password: rootpass
+      port: 27017
+      authentication-database: admin
+      database: ArvindVinayak
