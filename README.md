@@ -8,3 +8,6 @@ Files:<br>Screenshot - It contains the Screenshot of the application.<br>Server 
 
 # Task 2<br><br>
 To create the Swagger API swagger online editor is used, and the edited code is downloaded as an yaml file which is imported into intellij as Server for Spring.
+
+# Task 3<br><br>
+Created a dockerfile exposing the port 8080 and dockerising the springboot application. Creating the Docker images and using them to retrieve from the created jar in the target folder by the final name in the pom.xml.
