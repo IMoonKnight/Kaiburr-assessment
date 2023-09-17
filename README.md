@@ -24,5 +24,7 @@ Created a dockerfile exposing the port 8080 and dockerising the springboot appli
 ![Screenshot 2023-09-17 213805](https://github.com/IMoonKnight/Kaiburr-assessment/assets/114847358/1ce1a438-c9e9-45f1-88b0-b4722fb45a63)
 
 # Task 4
+Using Intellij Idea Ultimate, Apache Tomcat server to store the UI data with JDK 17.
+
 
 
