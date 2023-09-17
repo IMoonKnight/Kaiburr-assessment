@@ -8,7 +8,7 @@ docker-compose.yml -Contains YML code to compose teh setup.
 
 Dependencies Used
 Web
-Lombook
+Lombook 
 MongoDB
 Springboot
 Postman
