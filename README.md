@@ -12,6 +12,7 @@ Lombook
 MongoDB
 Springboot
 Postman
+swagger
 
 
 Task 1
